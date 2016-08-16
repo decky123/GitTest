@@ -27,7 +27,7 @@ public class Grades {
 	return moduleid;
 	}
 	public int  getGrade1(){
-		return 15;
+		return 12;
 	}
 	
 
